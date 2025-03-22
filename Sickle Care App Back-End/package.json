@@ -1,0 +1,28 @@
+{
+  "name": "sickle-care-be-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sickle-Care/sickle-care-be-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sickle-Care/sickle-care-be-/issues"
+  },
+  "homepage": "https://github.com/Sickle-Care/sickle-care-be-#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.10.1",
+    "nanoid": "^5.1.2",
+    "node-cron": "^3.0.3"
+  }
+}
